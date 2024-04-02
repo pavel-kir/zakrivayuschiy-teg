@@ -48,7 +48,7 @@
   font-size: clamp(3.0625rem, 1.9087rem + 4.9231cqi, 4.0625rem);
   font-weight: 400;
   line-height: 1;
-  text-transform: uppercase; 
+  text-transform: uppercase;
 }
 
 .header__title {
@@ -104,7 +104,7 @@
 
 .theme-menu__button:hover {
   opacity: 0.6;
-  cursor: pointer;  
+  cursor: pointer;
 }
 
 .theme-menu__button:focus {
