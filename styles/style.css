@@ -146,6 +146,10 @@
   margin-block-end: 27px;
 }
 
+.card_paragraph {
+  font-variation-settings: 'wgth' var(--card-text-fw, 400);
+}
+
 .card__buttons {
   display: flex;
   justify-content: end;
